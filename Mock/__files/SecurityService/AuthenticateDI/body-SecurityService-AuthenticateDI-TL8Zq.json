@@ -1,0 +1,32 @@
+{
+    "userProfile": {
+        "channelProfiles": [ {
+            "image": "",
+            "imageDate": "2015-01-12T16:39:14.000+0000",
+            "tileViews": [],
+            "profileId": "462",
+            "profileName": "My Personal Dashboard",
+            "profileStyle": "PERSONAL",
+            "systemPrincipalIdentifiers": [ {
+                "locale": null,
+                "systemPrincipalId": "161",
+                "systemPrincipalKey": "SBSA_BANKING"
+            } ]
+        } ],
+        "channelSettings": [],
+        "customerId": "000245857",
+        "defaultProfileId": "462",
+        "digitalId": {
+            "devices": [],
+            "password": null,
+            "systemPrincipals": [],
+            "username": "Suresh"
+        },
+        "firstName": "ALABA",
+        "lastName": "OWOADE",
+        "lastLoggedIn": "2015-01-26T07:15:08.000+0000",
+        "preferredName": "Default"
+    },
+    "keyValueMetadata": [],
+    "stepUp": null
+}

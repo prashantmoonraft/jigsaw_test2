@@ -1,0 +1,27 @@
+{
+    "request": {
+        "url": "/roa-mobile/rest/SecurityService/AuthenticateDI",
+        "method": "POST",
+        "bodyPatterns": [ {
+            "contains": "SUCCESS"
+        } ]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "SecurityService/AuthenticateDI/body-SecurityService-AuthenticateDI-TL8Zq.json",
+        "headers": {
+            "cache-control": "private, no-transform, must-revalidate",
+            "connection": "close",
+            "content-language": "en-US",
+            "content-type": "application/json",
+            "date": "Mon, 26 Jan 2015 07:52:38 GMT",
+            "last-modified": "Mon, 26 Jan 2015 07:53:04 GMT",
+            "transfer-encoding": "chunked",
+            "x-powered-by": "Servlet/3.0",
+            "x-sbg-response-code": "0000",
+            "x-sbg-response-message": "",
+            "x-sbg-response-type": "SUCCESS",
+            "x-sbg-token": "aXNzdWVfdGltZT0iMjAxNS0wMS0yNlQwODo1Mjo1NCINCmlzc3Vlcj0iQ049c25kbWNhcm9hLm5nLnNiaWNkaXJlY3RvcnkuY29tLCBPVT1JVCBTZWN1cml0eSwgTz1TdGFuZGFyZCBCYW5rIG9mIFNvdXRoIEFmcmljYSBMaW1pdGVkLCBMPUpvaGFubmVzYnVyZywgU1Q9R2F1dGVuZywgQz1aQSINCm5vdF9hZnRlcj0iMjAxNS0wMS0yNlQwOTowMjo1NCINCm5vdF9iZWZvcmU9IjIwMTUtMDEtMjZUMDg6NTE6NTQiDQp1c2VyaWQ9IlN1cmVzaCINCnVuaXF1ZUluZGVudGlmaWVyPSIiDQpzaWduYXR1cmU9ImVIY000bGdGbjY0cHFaait4UEtEOXZDV2ZaUEFNcUt3dXhnWWluT0llQWRVR0FSdWMwd1lOQ3ZhUnljMys3YlEyd1BlRkdSMXRoMmdkZit4UHJwckZkK2N5aWQ2UDZtSDZXYWNneGFkandiQW1od1JBQllFWi8xelRQR01MUkdSNEJmZGtWaVgwZUZWSVErYS9BMDVuWnBkbUlMOUI5RHFESmNZWmwxUktvOXh1czZlYllDdGNTNW0xV2NOb3NOZ3BBMVFrVi94Z05ucmVoSlBtSE5VZXo4NDk0NFZRYjdzWlMyRWJyVG1HRmt4a0lRamdWRFFwY2t3QmdJeDNrdFh3OHFtSGZVUTVqSTVuSEE3RHdER05aWDVvZHN5dUJYMGpHZWJHY1VMWThkZkYxV0x6SVdUcTAxVGFadWFlNE5lV05vZExSTXB5ek9VMlNkTXBMYkxpUT09Ig=="
+        }
+    }
+}
